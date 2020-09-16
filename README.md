@@ -1,6 +1,6 @@
 # corephp-itemdemo
 
-Database export file: /database.php 
+Database export file: /itemDemo.sql
 
 Database connection details: /database.php 
 
