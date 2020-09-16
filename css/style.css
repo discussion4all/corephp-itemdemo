@@ -1,0 +1,55 @@
+.container {
+    width: 600px;
+    margin: 0 auto;
+}
+.main-box {
+    display: flex;
+    flex-wrap: wrap;
+}
+.secound-box {
+    width: 45%;
+}
+.arrow-box {
+    width: 10%;
+}
+.frist-box {
+    width: 45%;
+}
+.new-box{
+    display: flex;
+}
+.new-box input {
+    width: 100%;
+}
+.new-box input:last-child {
+    width: 25%;
+    padding: 4px 0px;
+    margin-left: 4px;
+}
+#selected_item_left {
+    width: 100%;
+    padding: 5px;
+}
+.arrow-box {
+    width: 10%;
+    text-align: center;
+    padding: 55px 0px;
+}
+.arrow-box input {
+    /* width: 54%; */
+    display: block;
+    margin: auto;
+    margin-bottom: 3px;
+    padding: 3px 12px;
+}
+.secound-box select {
+    width: 100%;
+    padding: 5px;
+}
+.add-box {
+    height: 31px;
+}
+.add-box h1 {
+    font-size: 24px;
+    margin: 0;
+}
